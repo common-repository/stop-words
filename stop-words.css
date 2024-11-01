@@ -1,0 +1,23 @@
+.stopwords-img {
+    width: 130px;
+    display:block;
+    float: left;
+    padding-right: 50px;                
+}    
+.stopwords-info {
+    display:block;
+    float: left;        
+    max-width: 50%;
+}
+.stopwords-info p {
+    font-size: 16px;
+}
+.stopwords-info p br {
+    margin-bottom: 5px;
+}
+.stopwords-h2 {
+    font-size: 26px;
+}    
+.stopwords-clear {
+    clear: both;
+}    
